@@ -1,2 +1,2 @@
 # FizzBuzz
-My solution to the famous FizzBuzz problem
+My Python solution to the famous FizzBuzz problem
